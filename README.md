@@ -1,2 +1,2 @@
 # Template-RWD
-HTML CSS template
+HTML CSS template RWD
